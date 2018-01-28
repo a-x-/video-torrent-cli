@@ -1,0 +1,15 @@
+{
+  "name": "rutracker-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "make-dir": "^1.0.0",
+    "rutracker-api": "git+ssh://git@github.com/a-x-/Rutracker-API.git"
+  }
+}
