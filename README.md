@@ -4,6 +4,8 @@
 
 ## TODO
 
+https://habrahabr.ru/post/311578/
+
 - sort&filter
   - [ ] limit (> 1GB < 50GB) and sort (grather start) size
   - [ ] limit ( > 0) and sort (grather start) seeds
